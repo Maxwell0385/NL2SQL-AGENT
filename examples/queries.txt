@@ -1,0 +1,31 @@
+# Example Natural Language Queries
+
+## Basic Queries
+1. Show me all customers
+2. List all products
+3. Display all orders
+
+## Filtering
+1. Show me all customers from New York
+2. Find products in the Electronics category
+3. List orders placed in January 2024
+
+## Aggregation
+1. How many customers do we have?
+2. What is the average product price?
+3. Total number of orders this year
+
+## Complex Queries
+1. Show me all customers from New York who spent more than $1000
+2. What are the top 5 products by revenue?
+3. List customers who ordered more than 2 times
+
+## Joins
+1. Show me all customers and their orders
+2. Which products have been ordered the most?
+3. Get customer names and their total spending
+
+## Time-based
+1. How many orders were placed in the last 7 days?
+2. Show me orders from February 2024
+3. When was the last order placed?
